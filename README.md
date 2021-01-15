@@ -26,8 +26,11 @@ The goal of this work is to create a solution to a problem given using Partial D
 Credits
 -------
 Professor: Daniel Calderón
+
 Student: Nicolás García Ríos
 
 Computer Sciences Department
+
 Faculty of Physical and Mathematical Sciences
+
 University of Chile
