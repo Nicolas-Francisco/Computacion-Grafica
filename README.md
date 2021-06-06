@@ -24,8 +24,8 @@ The goal of this work is to create a solution to the "Aquarium problem" using Pa
 
 Credits
 -------
--**Professor** Daniel Calderón
--**Student** Nicolás García Ríos
+- **Professor** Daniel Calderón
+- **Student** Nicolás García Ríos
 
 **Computer Sciences Department**
 
