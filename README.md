@@ -1,4 +1,4 @@
-Computación-Grafica
+Modeling and Computer Graphics Assignments
 =============
 
 ![http://creativecommons.org/licenses/by/4.0/](https://i.creativecommons.org/l/by/4.0/88x31.png)
@@ -6,7 +6,7 @@ Computación-Grafica
 This work is licensed under a 
 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
 
-My personal repository for _Modeling and Computer Graphics_ course assignments, 5th semester, Computer Science Engineering. This project's goal is to collect the 3 main Works of the _Computer Graphics_ course, which is obligatory to obtain the _Computer Science Engineering_ degree in the University of Chile. These 3 main works have different levels of difficulty going from easiest to hardest, and all work with Open GL using python and jupyter notebook.
+My personal repository for _Modeling and Computer Graphics_ course assignments, 5th semester, Computer Science Engineering. This project's goal is to collect the 3 main assignments of the _Computer Graphics_ course, which is obligatory to obtain the _Computer Science Engineering_ degree in the University of Chile. These 3 main works have different levels of difficulty going from easiest to hardest, and all work with Open GL using python and jupyter notebook.
 
 **Assignment 1b - Space Wars**
 ---
@@ -28,11 +28,5 @@ Credits
 - **Student** Nicolás García Ríos
 
 <h3 align="center">
-  Computer Sciences Department
-</h3>
-<h3 align="center">
-  Faculty of Physical and Mathematical Sciences
-</h3>
-<h3 align="center">
-  University of Chile
+  Computer Sciences Department <br> Faculty of Physical and Mathematical Sciences <br> University of Chile
 </h3>
